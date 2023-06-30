@@ -1,2 +1,3 @@
 # extensible-web
-Allow websites to be extended with sites hosted in iframes.
+
+Allow websites to be extended with custom extensions.
